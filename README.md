@@ -25,7 +25,13 @@ Password: root
 For this project, Java language and MySQL databases are used.
 
 ```markdown
-                                INDEX      
+                                                      INDEX 
+                1. REQUIREMENTS
+                2. BACKEND WORKING
+                3. GUI
+                4. TUPLES
+                5. ER DIAGRAM AND DATABASE
+                6. NOTE
  
 ```
 
