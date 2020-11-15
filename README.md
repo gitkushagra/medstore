@@ -10,7 +10,7 @@ I am Kushagra Singh studying in Galgotias College of engineering and technology,
 
 ## PROJECT
 
-MEDICAL STORE MANAGEMENT SYSTEM
+### MEDICAL STORE MANAGEMENT SYSTEM
 
 It is a management system of Medical Store, to maintain and manage record of medicines, employees and transactions related information.
 It is a one stop intelligent solution of problems every medical store owners faces.
@@ -25,7 +25,7 @@ Password: root
 For this project, Java language and MySQL databases are used.
 
 ```markdown
-                                                      INDEX 
+                                                      INDEX
                 1. REQUIREMENTS
                 2. BACKEND WORKING
                 3. GUI
@@ -35,12 +35,30 @@ For this project, Java language and MySQL databases are used.
  
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kushagrasingh6/medicalstore/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 1. REQUIREMENTS
 
-### Support or Contact
+```markdown
+                                                     
+              A. MySQL Database.
+              B. MySQL J (Connector) for MySQL database and Java connectivity.
+              C. Java Development Kit (JDK) needed to be installed for Java libraries.
+              D. NetBeans IDE
+              E. rs2xml.jar file for editing queries into GUI table from SQL databases.
+              F. Inno Setup compiler to make executable (.exe) file.
+```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## 2. BACKEND WORKING
+
+```markdown
+NetBeans IDE is used for designing GUI and Java coding. As MySQL queries are initiated in Java instructions,
+MySQL connector J is used which export the extracted SQL query from Java to MySQL database.
+For this purpose, MySQL JDBC (Java Database Connectivity) driver is added in libraries of Java project. 
+The folder containing .jar file of the connector.
+The rs2xml.jar file which is added to the libraries of Java project, makes it possible to view any 
+changes in table in GUI.
+
+```
+
