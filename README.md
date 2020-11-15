@@ -281,9 +281,48 @@ hours or any personal cases etc., are managed by admin through this panel.
 ```markdown
 In this project, MySQL database management system is used,
 in which a database is created under which required tuples(tables) are stored.
-In this application “Admin” database is used. It contains seven tables as shown.
+In this application “Admin” database is used. It contains six tables as shown.
 ```
+![Databases](https://kushagrasingh6.github.io/medicalstore/Images/showdatabases.png)
 
+
+![Tuples_list](https://kushagrasingh6.github.io/medicalstore/Images/showtables.png)
+
+### NOTE: I HAVE ADDED ONE DUMMY RECORD USING INSERT COMMAND IN EACH TUPLE.
+
+
+
+                                               ATTENDENCE RECORD
+                                               
+![Attendence_Record](https://kushagrasingh6.github.io/medicalstore/Images/attendencebase.png)
+
+
+                                                 EMPLOYEE RECORD
+                                               
+![Attendence_Record](https://kushagrasingh6.github.io/medicalstore/Images/employeebase.png)
+
+
+                                                 MEDICINE RECORD
+                                               
+![Attendence_Record](https://kushagrasingh6.github.io/medicalstore/Images/medicinebase.png)
+
+
+                                                  PATIENT RECORD
+                                               
+![Patient_base](https://kushagrasingh6.github.io/medicalstore/Images/patientbase.png)
+
+
+                                                 TRANSACTION RECORD
+                                               
+![Transaction_base](https://kushagrasingh6.github.io/medicalstore/Images/transactbase.png)
+
+
+                                                 CRITICAL PATIENT RECORD
+                                               
+![Transaction_base](https://kushagrasingh6.github.io/medicalstore/Images/criticalbase.png)
+                                               
+
+ 
 
 
 
