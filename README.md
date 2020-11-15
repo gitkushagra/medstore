@@ -6,7 +6,7 @@ I am Kushagra Singh studying in Galgotias College of engineering and technology,
 
                                                   ACKNOWLEDGEMENT
 
-I am very thankful to my parents and teachers SIR RANJEET KUMAR and SIR SANDEEP SAXENA for providing me this golden opportunity in mini project. This mini project helped me a lot in revision of my concepts of JAVA, MySQL and their connectivity. My deep gratitude also goes to MySQL online reference material, which is available for free and YouTube videos explainng the concepts.
+I am very thankful to my parents and teachers SIR RANJEET KUMAR and SIR SANDEEP SAXENA for providing me this golden opportunity in mini project. This mini project helped me a lot in revision of my concepts of JAVA, MySQL and their connectivity. My deep gratitude also goes to MySQL online reference material, which is available for free and YouTube videos explainng the concepts. All credits of images used in each panels are obtained by Google Image Search and each image credit goes to their respective owners.
 
 ## PROJECT
 
@@ -40,7 +40,6 @@ For this project, Java language and MySQL databases are used.
 ## 1. REQUIREMENTS
 
 ```markdown
-                                                     
               A. MySQL Database.
               B. MySQL J (Connector) for MySQL database and Java connectivity.
               C. Java Development Kit (JDK) needed to be installed for Java libraries.
@@ -59,6 +58,16 @@ For this purpose, MySQL JDBC (Java Database Connectivity) driver is added in lib
 The folder containing .jar file of the connector.
 The rs2xml.jar file which is added to the libraries of Java project, makes it possible to view any 
 changes in table in GUI.
+
+```
+
+## 3. GUI (GRAPHICAL USER INTERFACE)
+
+I have used NetBeans IDE 8.2 to design each panels and coding. All images used in panels are obtained from Google Image search, all credits of images goes to their respective
+owners.
+
+```markdown
+                                     MENU OF MEDICAL STORE MANAGEMENT
 
 ```
 
