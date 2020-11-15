@@ -2,7 +2,7 @@
 
 ## ABOUT ME
 
-I am Kushagra Singh studying in Galgotias College of engineering and technology, Greater Noida. I am currently in third semester in IT department.
+I am Kushagra Singh studying in Galgotias College of engineering and technology, Greater Noida. This project is made, when I am in third semester in IT department.
 
                                                   ACKNOWLEDGEMENT
 
@@ -328,3 +328,13 @@ In this application “Admin” database is used. It contains six tables as show
 ![ER_Diagram](https://kushagrasingh6.github.io/medicalstore/Images/erdiagram.jpg)
 
 
+## 6. NOTE
+
+![Note](https://kushagrasingh6.github.io/medicalstore/Images/note.png)
+
+
+## DOWNLOAD My Prepared ppt (I exported it into pdf, so that it become uneditable)
+
+[PPT Download](https://github.com/kushagrasingh6/medicalstore/raw/main/file/MEDICAL_STORE_MANAGEMENT_SYSTEM.pdf)
+
+## Download executable (.exe) installer for Windows Machine of my project
