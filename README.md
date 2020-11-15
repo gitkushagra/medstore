@@ -176,7 +176,8 @@ In this case, limited editing rights are given to the employee like it can not d
 ### EMPLOYEE TRANSACTION RECORD MANAGEMENT
 
 ```markdown
-This is employee level transaction control panel, employee can only add the record of transaction with the customer.
+This is employee level transaction control panel, employee can only 
+add the record of transaction with the customer.
 In this case also, limited rights are given to the employee.
 ```
 ![Employee_Transaction](https://kushagrasingh6.github.io/medicalstore/Images/employeetransact.png)
@@ -197,10 +198,14 @@ However, limited rights are given, like removing medicine data can not be done b
 ### ADMINISTRATOR LOGIN PANEL
 
 ```markdown
-This is the  main admin login panel, its login credential is unique and given to the admin only.
-Through this panel, administrator of the medical store can login to manage the records with administrative rights.
-User Name and Password, as per provided with software, needs to be kept in a very safe place.
-Once lost or forgot, admin cannot modify it, he/she needs to call an engineer for the recovery.
+This is the  main admin login panel, its login credential is unique 
+and given to the admin only.
+Through this panel, administrator of the medical store can login to 
+manage the records with administrative rights.
+User Name and Password, as per provided with software, needs to 
+be kept in a very safe place.
+Once lost or forgot, admin cannot modify it, he/she needs 
+to call an engineer for the recovery.
 ```
 ![Admin_login](https://kushagrasingh6.github.io/medicalstore/Images/adminlogin.png)
 
@@ -254,7 +259,8 @@ Through which admin can not only add records but also can delete and modify it.
 ### ADMIN PATIENT RECORD MANAGEMENT
 
 ```markdown
-This is admin level of Patient record management console with some admin rights of deleting the patient record. 
+This is admin level of Patient record management console 
+with some admin rights of deleting the patient record. 
 ```
 ![Admin_Patient](https://kushagrasingh6.github.io/medicalstore/Images/adminpatient.png)
 
