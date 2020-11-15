@@ -339,7 +339,7 @@ In this application “Admin” database is used. It contains six tables as show
 
 ## DOWNLOAD executable (.exe) installer or MSI installer for Windows Machine of my project
 
-NOTE: These are not using any GLOBAL database, so, most of the functions will not work and show database connectivity error, since I used localhost.
+NOTE: These are not using any GLOBAL database, so, most of the functions will not work and show database connectivity error, since localhost server is used.
 
 [DOWNLOAD EXE INSTALLER](http://www.mediafire.com/file/p3tkkfjtqg63qav/Medical_Sore_Management-1.0.exe/file)
 
@@ -348,5 +348,9 @@ NOTE: These are not using any GLOBAL database, so, most of the functions will no
 
 ## DIFFERENCE BETWEEN EXE AND MSI INSTALLER
 
-![exeVSmsi]()
+[EXE VS MSI](https://askanydifference.com/difference-between-msi-and-exe/)
+
+
+                                                             THANK YOU!
+                                                        ---KUSHAGRA SINGH---
 
