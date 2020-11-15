@@ -86,4 +86,184 @@ This is the selection menu, where employee either proceed for login or register 
 For going back to menu, MENU button will help.
 
 ```
+![Signin/Register](https://kushagrasingh6.github.io/medicalstore/Images/signin.png)
 
+
+
+### EMPLOYEE LOGIN PANEL
+
+```markdown
+This is the Employee Login Panel, through which employee can enter its unique 
+username and password to continue for attendance.
+However, if employee forgot/lost its password, forgot password button will help.
+Exit button will close the application.
+
+```
+![employee_login](https://kushagrasingh6.github.io/medicalstore/Images/employeelogin.png)
+
+
+
+### FORGOT PASSWORD PANEL
+
+```markdown
+This is the RESET PASSWORD window, where employee will enter its username, then check if it exists 
+in the record, then enters a new strong password, once clicks on reset, the password is reset.
+Password Generator tool is recommended to create the strong password. Back to login panel button will lead to 
+Login wizard to enter  credentials.
+```
+![Forgot_Password](https://kushagrasingh6.github.io/medicalstore/Images/forgetpassword.png)
+
+
+
+### PASSWORD GENRATOR TOOL
+
+```markdown
+This is the Password Generator tool, which can generate alphanumeric strong passwords ranging 
+1 to 100 characters of length. However, employees are allowed up to 10 characters for the registration purpose.
+Keeping either 5 or 6 characters length is recommended for employees.
+Back to registration form and reset password buttons leads to respective panel.
+```
+![Password_Genrator](https://kushagrasingh6.github.io/medicalstore/Images/passgen.png)
+
+
+
+### REGISTRATION PANEL
+
+```markdown
+This is the registration form, where employee select its unique username, enters 
+desired password, and register themselves in the employee record.
+Password Generator Tool is recommended. Login Panel button leads back to Login wizard.
+```
+![Employee_Register](https://kushagrasingh6.github.io/medicalstore/Images/register.png)
+
+
+
+### ATTENDENCE PANEL
+
+```markdown
+This is the Attendance Panel, where employees can give there regular attendance.
+Mark Present button will save there attendance as present in the given date.
+Go to Dashboard button will lead to employee’s dashboard.
+Menu button will open menu through which, at the end of the day, employee can exit the application.
+```
+![Attendence](https://kushagrasingh6.github.io/medicalstore/Images/attendence.png)
+
+
+
+### EMPLOYEE PANEL
+
+```markdown
+This is the employee management panel, where it can—
+* Add Patient Entry.
+* Add Transaction Record.
+* Add Medicine Record.
+* Log out to the attendance panel, to exit the application.
+```
+![Employee_Panel](https://kushagrasingh6.github.io/medicalstore/Images/employeepanel.png)
+
+
+
+### PATIENT ENTRY BY AN EMPLOYEE
+
+```markdown
+Through this panel, employee can add patient details to the record.
+In this case, limited editing rights are given to the employee like it can not delete any patient details.
+```
+![Patient_Entry](https://kushagrasingh6.github.io/medicalstore/Images/patientbyemployee.png)
+
+
+
+### EMPLOYEE TRANSACTION RECORD MANAGEMENT
+
+```markdown
+This is employee level transaction control panel, employee can only add the record of transaction with the customer.
+In this case also, limited rights are given to the employee.
+```
+![Employee_Transaction](https://kushagrasingh6.github.io/medicalstore/Images/employeetransact.png)
+
+
+
+### EMPLOYEE MEDICINE RECORD MANAGEMENT
+
+```markdown
+This is the employee medicine management console, if in case any employee attend the 
+receiving of delivered  new medicine, then it can add to the record.
+However, limited rights are given, like removing medicine data can not be done by an employee.
+```
+![Employee_Medicine](https://kushagrasingh6.github.io/medicalstore/Images/employeemed.png)
+
+
+
+### ADMINISTRATOR LOGIN PANEL
+
+```markdown
+This is the  main admin login panel, its login credential is unique and given to the admin only.
+Through this panel, administrator of the medical store can login to manage the records with administrative rights.
+User Name and Password, as per provided with software, needs to be kept in a very safe place.
+Once lost or forgot, admin cannot modify it, he/she needs to call an engineer for the recovery.
+```
+![Admin_login](https://kushagrasingh6.github.io/medicalstore/Images/adminlogin.png)
+
+
+
+### ADMINISTRATIVE PANEL
+
+```markdown
+This is the administrative control panel, through which admin can—
+* Manage employee records
+* Manage medicine records
+* Manage transaction records
+* Any critical or important cases management
+```
+![Admin_Panel](https://kushagrasingh6.github.io/medicalstore/Images/adminpanel.png)
+
+
+
+### ADMIN EMPLOYEES RECORD MANAGEMENT
+
+```markdown
+This is the employees record management console, through which admin can 
+add any new employee, and provide it with its credentials.
+If in any case, employee resigns from job admin can remove its data permanently.
+Employees attendance can also be viewed.
+```
+![Employee_Record](https://kushagrasingh6.github.io/medicalstore/Images/adminemployee.png)
+
+
+
+### ADMIN MEDICINE RECORD MANAGEMENT
+
+```markdown
+This is the medicine record management console with administrative rights.
+Admin can add, delete and modify name of any medicine.
+```
+![Admin_Medicine](https://kushagrasingh6.github.io/medicalstore/Images/adminmed.png)
+
+
+
+### ADMIN TRANSACTION RECORD MANAGEMENT
+
+```markdown
+This is the admin level transaction control panel.
+Through which admin can not only add records but also can delete and modify it.
+```
+![Admin_Transaction](https://kushagrasingh6.github.io/medicalstore/Images/admintransact.png)
+
+
+
+### ADMIN PATIENT RECORD MANAGEMENT
+
+```markdown
+This is admin level of Patient record management console with some admin rights of deleting the patient record. 
+```
+![Admin_Patient](https://kushagrasingh6.github.io/medicalstore/Images/adminpatient.png)
+
+
+
+### CRITICAL/IMPORTANT CASES MANAGEMENT
+
+```markdown
+For any critical cases, like any patient is arriving after working 
+hours or any personal cases etc., are managed by admin through this panel.
+```
+![Critical_Cases](https://kushagrasingh6.github.io/medicalstore/Images/critical.png)
