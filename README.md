@@ -29,7 +29,7 @@ For this project, Java language and MySQL databases are used.
                 1. REQUIREMENTS
                 2. BACKEND WORKING
                 3. GUI
-                4. TUPLES
+                4. DATABASE
                 5. ER DIAGRAM AND DATABASE
                 6. NOTE
  
@@ -273,3 +273,17 @@ For any critical cases, like any patient is arriving after working
 hours or any personal cases etc., are managed by admin through this panel.
 ```
 ![Critical_Cases](https://kushagrasingh6.github.io/medicalstore/Images/critical.png)
+
+
+
+## 4. DATABASES
+
+```markdown
+In this project, MySQL database management system is used,
+in which a database is created under which required tuples(tables) are stored.
+In this application “Admin” database is used. It contains seven tables as shown.
+```
+
+
+
+
