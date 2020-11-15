@@ -68,6 +68,11 @@ owners.
 
 ```markdown
                                      MENU OF MEDICAL STORE MANAGEMENT
-
+This is the main menu of the medical store software.
+From “ATTENDANCE” tab, employees can give attendance on regular working days.
+Then, they can proceed to their working and managing data.
+From “ADMINISTRATOR LOGIN”, admin login panel opens, through which admins can 
+manage everything throughout the application.
+“EXIT” button closes the application.
 ```
-
+![Menu](https://kushagrasingh6.github.io/medicalstore/Images/menu.png)
