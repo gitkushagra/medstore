@@ -65,9 +65,9 @@ changes in table in GUI.
 
 I have used NetBeans IDE 8.2 to design each panels and coding. All images used in panels are obtained from Google Image search, all credits of images goes to their respective
 owners.
+### MENU OF MEDICAL STORE MANAGEMENT
 
 ```markdown
-                                     MENU OF MEDICAL STORE MANAGEMENT
 This is the main menu of the medical store software.
 From “ATTENDANCE” tab, employees can give attendance on regular working days.
 Then, they can proceed to their working and managing data.
@@ -76,3 +76,14 @@ manage everything throughout the application.
 “EXIT” button closes the application.
 ```
 ![Menu](https://kushagrasingh6.github.io/medicalstore/Images/menu.png)
+
+
+
+### SIGNIN/REGISTER
+
+```markdown
+This is the selection menu, where employee either proceed for login or register themselvese if in case new.
+For going back to menu, MENU button will help.
+
+```
+
