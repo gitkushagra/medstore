@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+# WELCOME TO MY MINI PROJECT
 
-You can use the [editor on GitHub](https://github.com/kushagrasingh6/medicalstore/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am very thankful to my parents and teachers SIR RANJEET KUMAR and SIR SANDEEP SAXENA for providing me this golden opportunity in mini project. This mini project helped me a lot in revision of my concepts of JAVA, MySQL and their connectivity. My deep gratitude also goes to MySQL online reference material, which is available for free and YouTube videos explainng the concepts.
 
 ### Markdown
 
