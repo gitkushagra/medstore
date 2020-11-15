@@ -337,4 +337,16 @@ In this application “Admin” database is used. It contains six tables as show
 
 [PPT Download](https://github.com/kushagrasingh6/medicalstore/raw/main/file/MEDICAL_STORE_MANAGEMENT_SYSTEM.pdf)
 
-## DOWNLOAD executable (.exe) installer for Windows Machine of my project
+## DOWNLOAD executable (.exe) installer or MSI installer for Windows Machine of my project
+
+NOTE: These are not using any GLOBAL database, so, most of the functions will not work and show database connectivity error, since I used localhost.
+
+[DOWNLOAD EXE INSTALLER](http://www.mediafire.com/file/p3tkkfjtqg63qav/Medical_Sore_Management-1.0.exe/file)
+
+[DOWNLOAD MSI INSTALLER](http://www.mediafire.com/file/wkb7z6n9b9am4n6/Medical_Sore_Management-1.0.msi/file)
+
+
+## DIFFERENCE BETWEEN EXE AND MSI INSTALLER
+
+![exeVSmsi]()
+
