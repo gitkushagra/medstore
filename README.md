@@ -337,4 +337,4 @@ In this application “Admin” database is used. It contains six tables as show
 
 [PPT Download](https://github.com/kushagrasingh6/medicalstore/raw/main/file/MEDICAL_STORE_MANAGEMENT_SYSTEM.pdf)
 
-## Download executable (.exe) installer for Windows Machine of my project
+## DOWNLOAD executable (.exe) installer for Windows Machine of my project
