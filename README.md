@@ -8,22 +8,25 @@ I am very thankful to my parents and teachers SIR RANJEET KUMAR and SIR SANDEEP 
 
 I am Kushagra Singh studying in Galgotias College of engineering and technology, Greater Noida. I am currently in third semester in IT department.
 
+## PROJECT
+
+MEDICAL STORE MANAGEMENT SYSTEM
+
+It is a management system of Medical Store, to maintain and manage record of medicines, employees and transactions related information.
+It is a one stop intelligent solution of problems every medical store owners faces.
+Moreover, its friendly GUI makes it more useful and time saving.
+Administrator can manage everything, and each employee will have there own account, thus, making each employee work private from each other. However, ADMIN can observe everything.
+
+Employees will only have rights for adding records, and there attendance is monitored within the application. Employees can reset the password either by their unique User Name or by directly contacting the administrator of the store.
+
+Administrator credentials are given below, they can not be reset by the admin itself, if in case lost or forgotten. Admin needs to contact the engineer for the recovery.
+User Name: admin
+Password: root
+For this project, Java language and MySQL databases are used.
+
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+                                INDEX      
+ 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
