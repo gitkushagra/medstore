@@ -1,6 +1,6 @@
 # WELCOME TO MY MINI PROJECT
 
-                                                           ACKNOWLEDGEMENT
+                                                       ACKNOWLEDGEMENT
 
 I am very thankful to my parents and teachers SIR RANJEET KUMAR and SIR SANDEEP SAXENA for providing me this golden opportunity in mini project. This mini project helped me a lot in revision of my concepts of JAVA, MySQL and their connectivity. My deep gratitude also goes to MySQL online reference material, which is available for free and YouTube videos explainng the concepts.
 
