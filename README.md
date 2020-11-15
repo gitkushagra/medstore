@@ -322,7 +322,9 @@ In this application “Admin” database is used. It contains six tables as show
 ![Transaction_base](https://kushagrasingh6.github.io/medicalstore/Images/criticalbase.png)
                                                
 
- 
 
+## 5. ER DIAGRAM AND DATABASE
+
+![ER_Diagram](https://kushagrasingh6.github.io/medicalstore/Images/erdiagram.jpg)
 
 
