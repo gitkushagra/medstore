@@ -351,6 +351,6 @@ NOTE: These are not using any GLOBAL database, so, most of the functions will no
 [EXE VS MSI](https://askanydifference.com/difference-between-msi-and-exe/)
 
 
-                                                             THANK YOU!
-                                                        ---KUSHAGRA SINGH---
+                                            THANK YOU!
+                                       ---KUSHAGRA SINGH---
 
