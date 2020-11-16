@@ -12,7 +12,7 @@ I am Kushagra Singh studying in Galgotias College of engineering and technology,
 
 ## Linkedin
 <a href="https://www.linkedin.com/in/kushagracollege">
-         <img alt="Kushagra_on_Linkedin" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"
+         <img alt="Kushagra_on_Linkedin" src="https://kushagrasingh6.github.io/medicalstore/Images/linklogo.png"
               width=128" height="128"></a>
                               
 
