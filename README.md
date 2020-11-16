@@ -8,14 +8,11 @@ I am Kushagra Singh studying in Galgotias College of engineering and technology,
 
 ## Instagram
 <a href="https://www.instagram.com/kushagra_shine">
-         <img alt="Kushagra_on_Instagram" src="https://kushagrasingh6.github.io/medicalstore/Images/instalogo.jpg"></a>
-
+         <img alt="Kushagra_on_Instagram" src="https://kushagrasingh6.github.io/medicalstore/Images/instalogo.jpg"></a>
 
 ## Linkedin
 <a href="https://www.linkedin.com/in/kushagracollege">
-         <img alt="Kushagra_on_Linkedin" src="https://kushagrasingh6.github.io/medicalstore/Images/linklogo.png"></a>
-  
-      
+         <img alt="Kushagra_on_Linkedin" src="https://kushagrasingh6.github.io/medicalstore/Images/linklogo.jpg"></a>
                               
 
                                                   ACKNOWLEDGEMENT
