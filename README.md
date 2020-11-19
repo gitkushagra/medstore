@@ -59,6 +59,9 @@ For this project, Java language and MySQL databases are used.
               E. Low end graphics for visuals of at least 64 MB.
               F. Disk space: 2GB is recommended.
 
+
+
+
 ## ii) SOFTWARE REQUIREMENTS
 
 ```markdown
