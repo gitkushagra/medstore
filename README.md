@@ -51,7 +51,8 @@ For this project, Java language and MySQL databases are used.
 ## 1. i) HARDWARE REQUIREMENTS
 
 ```markdown
-              A. Minimum CPU: Platinum III or equivalent. Recommended CPU: intel core i3 with 6th generation or equivalent.
+              A. Minimum CPU: Platinum III or equivalent.
+              Recommended CPU: intel core i3 with 6th generation or equivalent.
               B. CPU Speed of at least 1 Giga Hertz.
               C. Minimum RAM: 256MB. Recommended RAM: 4 GB.
               D. Operating System: Windows XP. Recommended: Windows 8.1 or higher.
