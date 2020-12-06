@@ -8,11 +8,11 @@ I am Kushagra Singh studying in Galgotias College of engineering and technology,
 
 ## Instagram
 <a href="https://www.instagram.com/kushagra_shine">
-         <img alt="Kushagra_on_Instagram" src="https://kushagrasingh6.github.io/medicalstore/Images/instalogo.png"></a>
+         <img alt="Kushagra_on_Instagram" src="https://kushagrasingh6.github.io/medstore/Images/instalogo.png"></a>
 
 ## Linkedin
 <a href="https://linkedin.com/in/kushagracollege">
-         <img alt="Kushagra_on_Linkedin" src="https://kushagrasingh6.github.io/medicalstore/Images/linklogo.png"></a>
+         <img alt="Kushagra_on_Linkedin" src="https://kushagrasingh6.github.io/medstore/Images/linklogo.png"></a>
                               
 
                                                   ACKNOWLEDGEMENT
@@ -99,7 +99,7 @@ From “ADMINISTRATOR LOGIN”, admin login panel opens, through which admins ca
 manage everything throughout the application.
 “EXIT” button closes the application.
 ```
-![Menu](https://kushagrasingh6.github.io/medicalstore/Images/menu.png)
+![Menu](https://kushagrasingh6.github.io/medstore/Images/menu.png)
 
 
 
@@ -110,7 +110,7 @@ This is the selection menu, where employee either proceed for login or register 
 For going back to menu, MENU button will help.
 
 ```
-![Signin/Register](https://kushagrasingh6.github.io/medicalstore/Images/signin.png)
+![Signin/Register](https://kushagrasingh6.github.io/medstore/Images/signin.png)
 
 
 
@@ -123,7 +123,7 @@ However, if employee forgot/lost its password, forgot password button will help.
 Exit button will close the application.
 
 ```
-![employee_login](https://kushagrasingh6.github.io/medicalstore/Images/employeelogin.png)
+![employee_login](https://kushagrasingh6.github.io/medstore/Images/employeelogin.png)
 
 
 
@@ -135,7 +135,7 @@ in the record, then enters a new strong password, once clicks on reset, the pass
 Password Generator tool is recommended to create the strong password. Back to login panel button will lead to 
 Login wizard to enter  credentials.
 ```
-![Forgot_Password](https://kushagrasingh6.github.io/medicalstore/Images/forgetpassword.png)
+![Forgot_Password](https://kushagrasingh6.github.io/medstore/Images/forgetpassword.png)
 
 
 
@@ -147,7 +147,7 @@ This is the Password Generator tool, which can generate alphanumeric strong pass
 Keeping either 5 or 6 characters length is recommended for employees.
 Back to registration form and reset password buttons leads to respective panel.
 ```
-![Password_Genrator](https://kushagrasingh6.github.io/medicalstore/Images/passgen.png)
+![Password_Genrator](https://kushagrasingh6.github.io/medstore/Images/passgen.png)
 
 
 
@@ -158,7 +158,7 @@ This is the registration form, where employee select its unique username, enters
 desired password, and register themselves in the employee record.
 Password Generator Tool is recommended. Login Panel button leads back to Login wizard.
 ```
-![Employee_Register](https://kushagrasingh6.github.io/medicalstore/Images/register.png)
+![Employee_Register](https://kushagrasingh6.github.io/medstore/Images/register.png)
 
 
 
@@ -170,7 +170,7 @@ Mark Present button will save there attendance as present in the given date.
 Go to Dashboard button will lead to employee’s dashboard.
 Menu button will open menu through which, at the end of the day, employee can exit the application.
 ```
-![Attendence](https://kushagrasingh6.github.io/medicalstore/Images/attendence.png)
+![Attendence](https://kushagrasingh6.github.io/medstore/Images/attendence.png)
 
 
 
@@ -183,7 +183,7 @@ This is the employee management panel, where it can—
 * Add Medicine Record.
 * Log out to the attendance panel, to exit the application.
 ```
-![Employee_Panel](https://kushagrasingh6.github.io/medicalstore/Images/employeepanel.png)
+![Employee_Panel](https://kushagrasingh6.github.io/medstore/Images/employeepanel.png)
 
 
 
@@ -193,7 +193,7 @@ This is the employee management panel, where it can—
 Through this panel, employee can add patient details to the record.
 In this case, limited editing rights are given to the employee like it can not delete any patient details.
 ```
-![Patient_Entry](https://kushagrasingh6.github.io/medicalstore/Images/patientbyemployee.png)
+![Patient_Entry](https://kushagrasingh6.github.io/medstore/Images/patientbyemployee.png)
 
 
 
@@ -204,7 +204,7 @@ This is employee level transaction control panel, employee can only
 add the record of transaction with the customer.
 In this case also, limited rights are given to the employee.
 ```
-![Employee_Transaction](https://kushagrasingh6.github.io/medicalstore/Images/employeetransact.png)
+![Employee_Transaction](https://kushagrasingh6.github.io/medstore/Images/employeetransact.png)
 
 
 
@@ -215,7 +215,7 @@ This is the employee medicine management console, if in case any employee attend
 receiving of delivered  new medicine, then it can add to the record.
 However, limited rights are given, like removing medicine data can not be done by an employee.
 ```
-![Employee_Medicine](https://kushagrasingh6.github.io/medicalstore/Images/employeemed.png)
+![Employee_Medicine](https://kushagrasingh6.github.io/medstore/Images/employeemed.png)
 
 
 
@@ -231,7 +231,7 @@ be kept in a very safe place.
 Once lost or forgot, admin cannot modify it, he/she needs 
 to call an engineer for the recovery.
 ```
-![Admin_login](https://kushagrasingh6.github.io/medicalstore/Images/adminlogin.png)
+![Admin_login](https://kushagrasingh6.github.io/medstore/Images/adminlogin.png)
 
 
 
@@ -244,7 +244,7 @@ This is the administrative control panel, through which admin can—
 * Manage transaction records
 * Any critical or important cases management
 ```
-![Admin_Panel](https://kushagrasingh6.github.io/medicalstore/Images/adminpanel.png)
+![Admin_Panel](https://kushagrasingh6.github.io/medstore/Images/adminpanel.png)
 
 
 
@@ -256,7 +256,7 @@ add any new employee, and provide it with its credentials.
 If in any case, employee resigns from job admin can remove its data permanently.
 Employees attendance can also be viewed.
 ```
-![Employee_Record](https://kushagrasingh6.github.io/medicalstore/Images/adminemployee.png)
+![Employee_Record](https://kushagrasingh6.github.io/medstore/Images/adminemployee.png)
 
 
 
@@ -266,7 +266,7 @@ Employees attendance can also be viewed.
 This is the medicine record management console with administrative rights.
 Admin can add, delete and modify name of any medicine.
 ```
-![Admin_Medicine](https://kushagrasingh6.github.io/medicalstore/Images/adminmed.png)
+![Admin_Medicine](https://kushagrasingh6.github.io/medstore/Images/adminmed.png)
 
 
 
@@ -276,7 +276,7 @@ Admin can add, delete and modify name of any medicine.
 This is the admin level transaction control panel.
 Through which admin can not only add records but also can delete and modify it.
 ```
-![Admin_Transaction](https://kushagrasingh6.github.io/medicalstore/Images/admintransact.png)
+![Admin_Transaction](https://kushagrasingh6.github.io/medstore/Images/admintransact.png)
 
 
 
@@ -286,7 +286,7 @@ Through which admin can not only add records but also can delete and modify it.
 This is admin level of Patient record management console 
 with some admin rights of deleting the patient record. 
 ```
-![Admin_Patient](https://kushagrasingh6.github.io/medicalstore/Images/adminpatient.png)
+![Admin_Patient](https://kushagrasingh6.github.io/medstore/Images/adminpatient.png)
 
 
 
@@ -296,7 +296,7 @@ with some admin rights of deleting the patient record.
 For any critical cases, like any patient is arriving after working 
 hours or any personal cases etc., are managed by admin through this panel.
 ```
-![Critical_Cases](https://kushagrasingh6.github.io/medicalstore/Images/critical.png)
+![Critical_Cases](https://kushagrasingh6.github.io/medstore/Images/critical.png)
 
 
 
@@ -307,10 +307,10 @@ In this project, MySQL database management system is used,
 in which a database is created under which required tuples(tables) are stored.
 In this application “Admin” database is used. It contains six tables as shown.
 ```
-![Databases](https://kushagrasingh6.github.io/medicalstore/Images/showdatabases.png)
+![Databases](https://kushagrasingh6.github.io/medstore/Images/showdatabases.png)
 
 
-![Tuples_list](https://kushagrasingh6.github.io/medicalstore/Images/showtables.png)
+![Tuples_list](https://kushagrasingh6.github.io/medstore/Images/showtables.png)
 
 ### NOTE: I HAVE ADDED ONE DUMMY RECORD USING INSERT COMMAND IN EACH TUPLE.
 
@@ -318,48 +318,48 @@ In this application “Admin” database is used. It contains six tables as show
 
                                                ATTENDENCE RECORD
                                                
-![Attendence_Record](https://kushagrasingh6.github.io/medicalstore/Images/attendencebase.png)
+![Attendence_Record](https://kushagrasingh6.github.io/medstore/Images/attendencebase.png)
 
 
                                                  EMPLOYEE RECORD
                                                
-![Attendence_Record](https://kushagrasingh6.github.io/medicalstore/Images/employeebase.png)
+![Attendence_Record](https://kushagrasingh6.github.io/medstore/Images/employeebase.png)
 
 
                                                  MEDICINE RECORD
                                                
-![Attendence_Record](https://kushagrasingh6.github.io/medicalstore/Images/medicinebase.png)
+![Attendence_Record](https://kushagrasingh6.github.io/medstore/Images/medicinebase.png)
 
 
                                                   PATIENT RECORD
                                                
-![Patient_base](https://kushagrasingh6.github.io/medicalstore/Images/patientbase.png)
+![Patient_base](https://kushagrasingh6.github.io/medstore/Images/patientbase.png)
 
 
                                                  TRANSACTION RECORD
                                                
-![Transaction_base](https://kushagrasingh6.github.io/medicalstore/Images/transactbase.png)
+![Transaction_base](https://kushagrasingh6.github.io/medstore/Images/transactbase.png)
 
 
                                                  CRITICAL PATIENT RECORD
                                                
-![Transaction_base](https://kushagrasingh6.github.io/medicalstore/Images/criticalbase.png)
+![Transaction_base](https://kushagrasingh6.github.io/medstore/Images/criticalbase.png)
                                                
 
 
 ## 5. ER DIAGRAM AND DATABASE
 
-![ER_Diagram](https://kushagrasingh6.github.io/medicalstore/Images/erdiagram.jpg)
+![ER_Diagram](https://kushagrasingh6.github.io/medstore/Images/erdiagram.jpg)
 
 
 ## 6. NOTE
 
-![Note](https://kushagrasingh6.github.io/medicalstore/Images/note.png)
+![Note](https://kushagrasingh6.github.io/medstore/Images/note.png)
 
 
 ## DOWNLOAD My Prepared ppt (I exported it into pdf, so that it become uneditable)
 
-[PPT Download](https://github.com/kushagrasingh6/medicalstore/raw/main/file/MEDICAL_STORE_MANAGEMENT_SYSTEM.pdf)
+[PPT Download](https://github.com/kushagrasingh6/medstore/raw/main/file/MEDICAL_STORE_MANAGEMENT_SYSTEM.pdf)
 
 ## DOWNLOAD executable (.exe) installer or MSI installer for Windows Machine of my project
 
