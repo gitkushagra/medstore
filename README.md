@@ -1,7 +1,7 @@
 # WELCOME TO MY MINI PROJECT
 
 <a href="http://kushagraprofile.xyz">
-         <img alt="Kushagra_on_Instagram" src="https://kushagrasingh6.github.io/medstore/Images/home.png"></a>
+         <img alt="Go to Profile" src="https://raw.githubusercontent.com/kushagrasingh6/medstore/main/Images/home.png"></a>
 
 ## ABOUT ME
 
