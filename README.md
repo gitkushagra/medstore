@@ -1,7 +1,7 @@
 # WELCOME TO MY MINI PROJECT
 
 <a href="http://kushagraprofile.xyz">
-         <img alt="Go to Profile" src="https://raw.githubusercontent.com/kushagrasingh6/medstore/main/Images/home.png"></a>
+         <img alt="Go to Profile" src="https://raw.githubusercontent.com/kushagrasingh6/medstore/main/Images/home.png" width="50" height="60"></a>
 
 ## ABOUT ME
 
