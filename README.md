@@ -1,7 +1,6 @@
 # WELCOME TO MY MINI PROJECT
 
-<a href="http://kushagraprofile.xyz">
-         <img alt="Go to Profile" src="https://raw.githubusercontent.com/kushagrasingh6/medstore/main/Images/home.png" width="50" height="60"></a>
+
 
 ## ABOUT ME
 
@@ -359,10 +358,13 @@ In this application “Admin” database is used. It contains six tables as show
 
 ![Note](https://gitkushagra.github.io/medstore/Images/note.png)
 
+## DOWNLOAD ZIP FILE OF MY PROJECT [LOCKED]
+
+[DOWNLOAD ZIP](https://www.mediafire.com/file/zeag38xhj7pzirl/MedStore.zip/file)
 
 ## DOWNLOAD My Prepared ppt (I exported it into pdf, so that it become uneditable)
 
-[PPT Download](https://github.com/kushagrasingh6/medstore/raw/main/file/MEDICAL_STORE_MANAGEMENT_SYSTEM.pdf)
+[PPT Download](https://github.com/gitkushagra/medstore/raw/main/file/MEDICAL_STORE_MANAGEMENT_SYSTEM.pdf)
 
 ## DOWNLOAD executable (.exe) installer or MSI installer for Windows Machine of my project
 
