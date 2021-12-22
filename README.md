@@ -16,6 +16,8 @@ I am Kushagra Singh studying in Galgotias College of engineering and technology,
 ## Linkedin
 <a href="https://linkedin.com/in/kushagraprofile">
          <img alt="Kushagra_on_Linkedin" src="https://gitkushagra.github.io/medstore/Images/linklogo.png"></a>
+         
+Note: This project is fully developed and can be deployed.
                               
 
                                                   ACKNOWLEDGEMENT
