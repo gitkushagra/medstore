@@ -363,7 +363,7 @@ In this application “Admin” database is used. It contains six tables as show
 
 ## DOWNLOAD ZIP FILE OF MY PROJECT [LOCKED]
 
-[DOWNLOAD ZIP](https://www.mediafire.com/file/zeag38xhj7pzirl/MedStore.zip/file)
+[DOWNLOAD ZIP](https://www.mediafire.com/file/jmn4mk1i6idq5cj/MedStore.7z/file)
 
 ## DOWNLOAD My Prepared ppt (I exported it into pdf, so that it become uneditable)
 
