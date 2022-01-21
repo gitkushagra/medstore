@@ -20,7 +20,7 @@ I am Kushagra Singh studying in Galgotias College of engineering and technology,
 Note: This project is fully developed and can be deployed.
 
 
-<iframe width="727" height="409" src="https://www.youtube.com/embed/Tq36r-4nwYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="409" src="https://www.youtube.com/embed/Tq36r-4nwYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                               
 
                                                   ACKNOWLEDGEMENT
