@@ -10,7 +10,7 @@ I am Kushagra Singh studying in Galgotias College of engineering and technology,
 ## I AM ALSO ON
 
 ## Instagram
-<a href="https://www.instagram.com/kushagra_shine">
+<a href="https://www.instagram.com/kushagrame">
          <img alt="Kushagra_on_Instagram" src="https://gitkushagra.github.io/medstore/Images/instalogo.png"></a>
 
 ## Linkedin
