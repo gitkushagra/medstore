@@ -1,6 +1,6 @@
 # WELCOME TO MY MINI PROJECT
 
-<a href="http://kushagraprofile.xyz">
+<a href="https://gitkushagra.github.io/profile.github.io/index.html">
          <img alt="Go to Profile" src="https://gitkushagra.github.io/medstore/Images/home.png" width="50" height="60"></a>
 
 ## ABOUT ME
@@ -8,10 +8,6 @@
 I am Kushagra Singh studying in Galgotias College of engineering and technology, Greater Noida. This project is made, when I am in third semester in IT department.
 
 ## I AM ALSO ON
-
-## Instagram
-<a href="https://www.instagram.com/kushagrame">
-         <img alt="Kushagra_on_Instagram" src="https://gitkushagra.github.io/medstore/Images/instalogo.png"></a>
 
 ## Linkedin
 <a href="https://linkedin.com/in/kushagraprofile">
