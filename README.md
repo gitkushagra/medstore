@@ -1,6 +1,6 @@
 # WELCOME TO MY MINI PROJECT
 
-<a href="https://gitkushagra.github.io/profile.github.io/index.html">
+<a href="javascript:window.close()">
          <img alt="Go to Profile" src="https://gitkushagra.github.io/medstore/Images/home.png" width="50" height="60"></a>
 
 ## ABOUT ME
